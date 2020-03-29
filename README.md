@@ -1,3 +1,3 @@
 # covidsim
 
-don't forget ``pip install -r requirements.txt``
+don't forget ``pip3.7 install -r requirements.txt``
