@@ -172,4 +172,4 @@ def generateAgeDistr(ageUrl):
     os.remove('age.xlsx')
     
 
-generateAgeDistr('https://www2.census.gov/programs-surveys/popest/tables/2010-2018/counties/asrh/PEP_2018_PEPAGESEX.zip')
+#generateAgeDistr('https://www2.census.gov/programs-surveys/popest/tables/2010-2018/counties/asrh/PEP_2018_PEPAGESEX.zip')
