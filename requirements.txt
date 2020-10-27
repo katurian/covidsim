@@ -21,7 +21,7 @@ click==7.1.1
 colorama==0.4.3
 comtypes==1.1.7
 constantly==15.1.0
-cryptography==2.8
+cryptography==3.2
 csvkit==1.0.5
 cycler==0.10.0
 czml==0.3.3
