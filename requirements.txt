@@ -44,7 +44,7 @@ ipython-genutils==0.2.0
 isodate==0.6.0
 jdcal==1.4.1
 jedi==0.16.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 kiwisolver==1.1.0
 leather==0.3.3
 letterboxd==0.3.0
