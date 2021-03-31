@@ -48,7 +48,7 @@ Jinja2==2.11.1
 kiwisolver==1.1.0
 leather==0.3.3
 letterboxd==0.3.0
-lxml==4.5.0
+lxml==4.6.3
 MarkupSafe==1.1.1
 matplotlib==3.1.3
 multidict==4.5.2
