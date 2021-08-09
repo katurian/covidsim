@@ -94,7 +94,7 @@ python-slugify==4.0.0
 pytimeparse==1.1.8
 PyTumblr==0.1.0
 pytz==2019.3
-pywin32==227
+pywin32==301
 PyYAML==5.3
 regex==2020.2.20
 requests==2.22.0
