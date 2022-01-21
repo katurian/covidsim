@@ -39,7 +39,7 @@ hyperlink==19.0.0
 idm==0.38
 idna==2.8
 incremental==17.5.0
-ipython==7.13.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 isodate==0.6.0
 jdcal==1.4.1
