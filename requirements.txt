@@ -66,7 +66,7 @@ pandas==1.0.1
 parsedatetime==2.5
 parso==0.6.2
 pickleshare==0.7.5
-Pillow==7.0.0
+Pillow==9.3.0
 pipreqs==0.4.10
 pprint==0.1
 praw==6.4.0
